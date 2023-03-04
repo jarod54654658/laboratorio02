@@ -1,0 +1,7 @@
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\obj\Debug\laboratorio02estructuras.csprojAssemblyReference.cache
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\obj\Debug\laboratorio02estructuras.csproj.CoreCompileInputs.cache
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\bin\Debug\laboratorio02estructuras.exe.config
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\bin\Debug\laboratorio02estructuras.exe
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\bin\Debug\laboratorio02estructuras.pdb
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\obj\Debug\laboratorio02estructuras.exe
+C:\Users\HP15DY1022LA\Desktop\PROGRA LABORATORIO\laboratorio02estructuras\laboratorio02estructuras\obj\Debug\laboratorio02estructuras.pdb
